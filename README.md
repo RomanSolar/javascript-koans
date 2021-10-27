@@ -41,9 +41,6 @@ it('`var` works as usual, it does not restricts scope', () => {
 });
 ```
 
-When we uncomment the line and refresh the `SpecRunner.html` page, we will see something like that:
-
-![image](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_0a3269347ff9cf345534607ba27809d2.png)
 
 **The primary goal is not to finish all the tests. We want you to understand why each test is failing and how does JavaScript ES6 work in specific scopes.**
 
