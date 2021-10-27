@@ -19,7 +19,7 @@ There are Koans for all the programming languages. We will be working with JavaS
 
   ```
   git add .
-  git commit -m "done"
+  git commit -m 'done'
   git push origin master
   ```
 
