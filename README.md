@@ -1,1 +1,1 @@
-# JavaScript Koans
+# Javascript koans
